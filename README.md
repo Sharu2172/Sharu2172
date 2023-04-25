@@ -1,11 +1,11 @@
 ### Hi there, I'm D.Sharath - aka [Sharu2172][website] 👋
 
-## I'm a Student, Developer, and Learner!!
+## I'm a Software Developer, and Learner!!
 
 - 🌱 I’m currently learning Full Stack Development 🤣
 - 👯 I’m looking to collaborate with other developers to create wonders
-- 🥅 2021 Goals: To develop new Projects and Improve my Skills.
-- ⚡ Fun fact: I love to play Football / Chess
+- 🥅 2023 Goals: To develop new Projects and Improve my Skills.
+- ⚡ Fun fact: I love to play Football and Chess
 
 ### Connect with me:
 
