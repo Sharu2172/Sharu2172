@@ -9,6 +9,7 @@
 * 🏥 Experience building FHIR-compliant healthcare data systems
 * ☁️ Working with AWS, Iceberg, Data Lakes & Distributed Processing
 * 📍 Based in India | Open to opportunities across India
+* 🌐 Portfolio: **https://sharu2172.github.io/**
 * 📫 Reach me at: **[dsharath217@gmail.com](mailto:dsharath217@gmail.com)**
 
 ---
@@ -157,6 +158,7 @@ Developed a hospital price transparency aggregation platform that:
 
 # 🌐 Connect With Me
 
+* Portfolio: https://sharu2172.github.io/
 * GitHub: https://github.com/Sharu2172
 * LinkedIn: https://linkedin.com/in/d-sharath-a6289b152
 * Email: [dsharath217@gmail.com](mailto:dsharath217@gmail.com)
