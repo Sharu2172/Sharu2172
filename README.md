@@ -48,6 +48,7 @@ I enjoy solving complex data engineering problems and building systems that enab
 * Hadoop Ecosystem
 * Apache Iceberg
 * Kafka (Foundational)
+* dbt (Foundational)
 
 ## Cloud & Infrastructure
 
